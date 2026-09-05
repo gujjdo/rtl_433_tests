@@ -1,0 +1,8 @@
+# Bitbuffer codes for the Garmin T5x decoder.
+# Rows as sliced by FSK_PCM 667us (includes the alternating preamble).
+# {102}0aaaaaab4cb31a63c116fc1c40  # A: id 10646, lat_win 25420, lon_win 7873247, status 1
+# {102}0aaaaaab4cb31a63c116300e80  # B: id 10646, lat_win 25420, lon_win 7873222, status 1
+# {102}0aaaaaab4cb31a63c116f1b110  # C: id 10646, lat_win 25420, lon_win 7873246, status 0
+{102}0aaaaaab4cb31a63c116fc1c40
+{102}0aaaaaab4cb31a63c116300e80
+{102}0aaaaaab4cb31a63c116f1b110
