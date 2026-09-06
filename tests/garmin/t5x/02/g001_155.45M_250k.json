@@ -1,3 +1,3 @@
-{"model": "Garmin-T5x", "id": 10646, "sequence": "D", "latitude_win": 25423, "longitude_win": 7874355, "status": 0, "mic": "CHECKSUM"}
-{"model": "Garmin-T5x", "id": 10646, "sequence": "B", "latitude_win": 25423, "longitude_win": 7874338, "status": 1, "mic": "CHECKSUM"}
-{"model": "Garmin-T5x", "id": 10646, "sequence": "C", "latitude_win": 25422, "longitude_win": 7874362, "status": 1, "mic": "CHECKSUM"}
+{"time" : "@2.282676s", "model" : "Garmin-T5x", "id" : 10646, "sequence" : "D", "latitude_win" : 25423, "longitude_win" : 7874355, "parity_ok" : 1, "mic" : "CHECKSUM"}
+{"time" : "@4.782108s", "model" : "Garmin-T5x", "id" : 10646, "sequence" : "B", "latitude_win" : 25423, "longitude_win" : 7874338, "parity_ok" : 1, "mic" : "CHECKSUM"}
+{"time" : "@7.284512s", "model" : "Garmin-T5x", "id" : 10646, "sequence" : "C", "latitude_win" : 25422, "longitude_win" : 7874362, "parity_ok" : 1, "mic" : "CHECKSUM"}
